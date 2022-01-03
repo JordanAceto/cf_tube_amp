@@ -511,7 +511,7 @@
       (reference "C6") (unit 1) (value "22u 25v") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000060cdf360/00000000-0000-0000-0000-000060d23644"
-      (reference "C7") (unit 1) (value "4n7 450v") (footprint "")
+      (reference "C7") (unit 1) (value "100n") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000060cdf360/00000000-0000-0000-0000-000060d248f2"
       (reference "C8") (unit 1) (value "560p 450v") (footprint "")

@@ -1364,7 +1364,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060d23644)
     (property "Reference" "C7" (id 0) (at 241.3 101.5492 90))
-    (property "Value" "4n7 450v" (id 1) (at 241.3 103.8606 90))
+    (property "Value" "100n" (id 1) (at 241.3 103.8606 90))
     (property "Footprint" "" (id 2) (at 237.49 108.9152 0)
       (effects (font (size 1.27 1.27)) hide)
     )
